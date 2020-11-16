@@ -20,7 +20,7 @@ class Header extends Component {
                         </Nav>   
                     </div>  
                 </Navbar>
-                <img src="/assets/images/logo.png" height="200" alt="NuCamp Logo" className="pt-2" />
+                <img src="/assets/images/logo.png" alt="NuCamp Logo" className="w-100 pt-2 col-md-7" />
             </>
         );
     }
